@@ -1,1 +1,1 @@
-console.log("Bot is running...");
+const fca = require('fca-unofficial');
