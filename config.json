@@ -1,1 +1,5 @@
-
+{
+  "botName": "MyBot",
+  "prefix": "!",
+  "ownerID": "your_facebook_id"
+}
